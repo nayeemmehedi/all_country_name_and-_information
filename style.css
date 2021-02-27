@@ -1,0 +1,16 @@
+.newBox{
+
+    border: 1px solid black;
+    width: 50%;
+
+}
+.boom{
+    background-color: rgb(100, 91, 91);
+    color:white;
+    border: 1px solid yellow;
+    margin:15px;
+    padding:35px;
+    
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px grey;
+}
